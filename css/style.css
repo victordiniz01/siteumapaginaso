@@ -1,0 +1,98 @@
+* {
+    background: #696969;
+}
+
+.container {
+    width: 0 auto;
+    overflow: hidden;
+    margin: 0 auto;
+    height: 0 auto;
+}
+
+.topopagina {
+    width: auto;
+    height: 90px;
+    background: red;
+    overflow: hidden;
+}
+
+.menutopo {
+    background: red;
+
+
+}
+
+.menucont {
+    float: right;
+    margin-right: 100px;
+    margin-top: 30px;
+    background: red;
+}
+
+.menucont ul {
+    list-style: none;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    background: red;
+}
+
+.menucont ul li {
+    display: inline;
+}
+
+.menucont ul li a {
+    color: white;
+    background: red;
+    font-size: 20px;
+    padding: 2px 20px;
+    text-decoration: none;
+}
+
+.menucont ul li a:hover {
+    color: black;
+}
+
+.logotopo {
+    float: left;
+    position: absolute;
+    font: 50px arial;
+    background: red;
+    color: white;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.corpoposts {
+    width: auto;
+    background: yellow;
+    overflow: hidden;
+
+}
+
+.corpoposts h1 {
+    text-align: center;
+    background: yellow;
+    margin-bottom: auto;
+}
+
+.corpoposts p {
+    background: yellow;
+    text-align: center;
+    margin-top: auto;
+    padding-top: 20px;
+}
+
+.corpoposts img {
+    width: 80px;
+    float: left;
+    display: inline-block;
+    margin-right: 170px;
+    margin-left: 170px;
+    background: yellow;
+}
+
+.corpoposts img a:hover {
+    border-radius: 50%;
+    border-bottom: transparent;
+}
